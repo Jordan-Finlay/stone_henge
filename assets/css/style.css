@@ -98,7 +98,7 @@ nav {
     position: relative;
 }
 #cover-text {
-    background-color: rgba(139, 230, 230, .6);
+    background-color: rgba(139, 230, 230, .4);
     color: #fafafa;
     position: absolute;
     bottom: 30px;
@@ -118,6 +118,13 @@ main {
 footer {
     background-color: #fafafa;
     padding: 20px;
+}
+
+#social-networks {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 130%;
 }
 
 
