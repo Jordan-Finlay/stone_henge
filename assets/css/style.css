@@ -81,6 +81,10 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+.nav-toggle-label > i {
+    color: #3a3a3a;
+    font-size: 80%;
+}
 
 #logo {
     font-family: lato;
