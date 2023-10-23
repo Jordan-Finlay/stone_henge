@@ -157,9 +157,22 @@ main {
     align-items: center;
 }
 
+#northpic {
+    background: url("../images/stonehenge-from-north-east.jpg") no-repeat center center/cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 30px;
+}
+
+#northpicture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Footer */
 
- footer {
+footer {
     background-color: #fafafa;
     padding: 20px;
 }
@@ -213,12 +226,17 @@ main {
     }
 
     #overheadpic {
-        height: 600px;
+        height: 500px;
         width: 600px;
     }
 
     #sunsetpic {
-        height: 600px;
+        height: 500px;
+        width: 600px;
+    }
+
+    #northpic {
+        height: 500px;
         width: 600px;
     }
 }
@@ -240,7 +258,7 @@ main {
         height: 450px;
         width: 450px;
         margin-left: 80px;
-        margin-top: -20px;
+        margin-top: -30px;
     }
 
     #importance {
@@ -253,7 +271,7 @@ main {
         height: 450px;
         width: 450px;
         margin-left: 80px;
-        margin-top: -20px;
+        margin-top: -30px;
     }
 
     #history {
@@ -261,7 +279,18 @@ main {
         display: flex;
         margin: 0 250px 0 250px;
     }
-    #sunsetpicture {
+
+    #northpic {
+        height: 450px;
+        width: 450px;
+        margin-left: 80px;
+        margin-top: -30px;
+    }
+
+    #archaeology {
+        display: block;
+        display: flex;
+        margin: 0 250px 0 250px;
     }
 
     h3 {
