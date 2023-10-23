@@ -270,14 +270,21 @@ footer {
         display: flex;
         margin: 0 250px 0 250px;
     }
-
-    #sunsetpic {
+    #history {
+        display: flex;
+    }
+    #sunsetpicture {
         height: 450px;
         width: 450px;
-        margin-left: 80px;
-        margin-top: -30px;
+        order: -1;
+        flex-shrink: 0;
+        margin-right: 80px;
+        margin-bottom: 80px;
     }
-
+    #title {
+        margin-left: 780px;
+    }
+    
     #history {
         display: block;
         display: flex;
