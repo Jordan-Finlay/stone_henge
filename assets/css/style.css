@@ -199,6 +199,7 @@ footer {
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
+        font-size: 95%;
     }
 
     #menu {
@@ -216,7 +217,7 @@ footer {
 
     #logo {
         font-size: 280%;
-        line-height: 75px;
+        line-height: 80px;
         margin: 0 0.5rem;
     }
 
