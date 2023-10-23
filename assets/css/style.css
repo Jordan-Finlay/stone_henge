@@ -200,7 +200,7 @@ footer {
         width: fit-content;
         padding-right: 1rem;
     }
-    
+
     #menu {
         display: flex;
         font-size: 100%;
@@ -240,6 +240,7 @@ footer {
         height: 500px;
         width: 600px;
     }
+
     h3 {
         padding-bottom: 10px;
     }
@@ -270,25 +271,34 @@ footer {
         display: flex;
         margin: 0 250px 0 250px;
     }
+
     #history {
         display: flex;
     }
+
     #sunsetpicture {
         height: 450px;
         width: 450px;
         order: -1;
         flex-shrink: 0;
         margin-right: 80px;
-        margin-bottom: 80px;
+        margin-bottom: 30px;
     }
+
     #title {
         margin-left: 780px;
+        padding-top: 10px;
     }
-    
+
     #history {
         display: block;
         display: flex;
         margin: 0 250px 0 250px;
+    }
+
+    #background {
+        margin-bottom: 40px;
+        background-color: beige;
     }
 
     #northpic {
