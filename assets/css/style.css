@@ -108,6 +108,22 @@ nav {
     margin-left: 5px;
 }
 
+#heroevent {
+    background: url("../images/stonehenge-event.jpg") no-repeat center center/cover;
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+#event-text {
+    background-color: rgba(139, 230, 230, .4);
+    color: #fafafa;
+    position: absolute;
+    bottom: 30px;
+    padding: 15px;
+    margin-left: 5px;
+}
+
 /* Main content */
 main {
     background-color: #fafafa;
