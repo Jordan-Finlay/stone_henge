@@ -401,9 +401,35 @@ footer {
         margin: 0 250px 0 250px;
     }
 
+    /* Event page */
+    #solstice {
+        display: flex;
+    }
+
+    #solstice-mystery {
+        width: 33%;
+    }
+
+    #two {
+        width: 33%;
+    }
+
+    #three {
+        width: 33%;
+    }
+
+
     h3 {
         padding-bottom: 20px;
         margin: 0 250px 0 250px;
         font-size: 200%;
+    }
+
+    .eventh4 {
+        font-size: 200%;
+    }
+
+    #heroevent {
+        margin-bottom: 30px;
     }
 }
