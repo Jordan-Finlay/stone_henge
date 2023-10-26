@@ -267,6 +267,24 @@ footer {
     font-size: 130%;
 }
 
+/* Signup form */
+#signup {
+    background: url("../images/stonehengesign.jpg") no-repeat top center/cover;
+    background-position: 40% 40%;
+    padding: 140px 10px 140px 10px;
+}
+
+#signupform {
+    color: #fafafa;
+    background-color: rgba(139, 230, 230, .4);
+    padding: 30px;
+}
+
+#radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
@@ -357,6 +375,18 @@ footer {
     #photos {
         column-count: 3;
         column-gap: 0;
+    }
+
+    #signup {
+        width: 100%;
+        padding-bottom: 750px;
+    }
+
+    #signupform {
+        max-width: 250px;
+        position: absolute;
+        left: 10%;
+        top: 250px;
     }
 }
 
@@ -464,7 +494,20 @@ footer {
         column-count: 4;
         column-gap: 0;
     }
+
     #gallery img {
         height: 400px;
+    }
+
+    #signup {
+        width: 100%;
+        padding-bottom: 2200px;
+    }
+
+    #signupform {
+        max-width: 250px;
+        position: absolute;
+        left: 10%;
+        top: 250px;
     }
 }

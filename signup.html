@@ -53,7 +53,77 @@
     </header>
 
     <!--Main-->
-    <main>Main just testing the fonts</main>
+    <main>
+      <section id="signup">
+        <form
+          id="signupform"
+          method="POST"
+          action="https://formdump.codeinstitute.net"
+        >
+          <h4>Sign up for more news!</h4>
+          <br />
+          <label for="first_name">First Name</label>
+          <input
+            type="text"
+            name="first_name"
+            id="first_name"
+            class="text-input"
+            required
+          />
+          <label for="last_name">Last Name</label>
+          <input
+            type="text"
+            name="last_name"
+            id="last_name"
+            class="text-input"
+            required
+          />
+          <label for="email_address">Email Address</label>
+          <input
+            type="email"
+            name="email_address"
+            id="email_address"
+            class="text-input"
+            required
+          />
+          <label for="phone_number">Phone Number</label>
+          <input
+            type="number"
+            name="phone_number"
+            id="phone_number"
+            class="text-input"
+            required
+          />
+          <br />
+          <br />
+          <h4>Contact preference</h4>
+          <div id="radio-buttons">
+            <div>
+              <label for="email_address">Email</label>
+              <input
+                type="radio"
+                name="contact_preference"
+                id="email_address"
+                value="email"
+                required
+                checked
+              />
+            </div>
+            <div>
+              <label for="phone_number">Phone</label>
+              <input
+                type="radio"
+                name="contact_preference"
+                id="phone_number"
+                value="phone_number"
+                required
+              />
+            </div>
+          </div>
+          <button type="submit" class="join-button">Sign me up!</button>
+        </form>
+      </section>
+    </main>
 
     <!--Footer-->
     <footer>
