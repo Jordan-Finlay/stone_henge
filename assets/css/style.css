@@ -464,4 +464,7 @@ footer {
         column-count: 4;
         column-gap: 0;
     }
+    #gallery img {
+        height: 400px;
+    }
 }
