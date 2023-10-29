@@ -156,6 +156,7 @@ main {
 .overhead {
     width: 100%;
     height: auto;
+    margin-bottom: 20px;
 }
 
 #overheadpicture {
@@ -164,25 +165,10 @@ main {
     align-items: center;
 }
 
-
-#sunsetpic {
-    background: url("../images/stonehenge-sunset.jpg") no-repeat center center/cover;
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 30px;
-}
-
 #sunsetpicture {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-#northpic {
-    background: url("../images/stonehenge-from-north-east.jpg") no-repeat center center/cover;
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 30px;
 }
 
 #northpicture {
@@ -340,21 +326,7 @@ footer {
         margin-top: 79px;
     }
 
-    
-
-
-
-
-    #sunsetpic {
-        height: 500px;
-        width: 600px;
-    }
-
-    #northpic {
-        height: 500px;
-        width: 600px;
-    }
-
+    /* Event page images */
     #sherlockpic {
         height: 500px;
         width: 600px;
@@ -405,58 +377,70 @@ footer {
         padding-left: 2rem;
     }
 
-    #overheadpicture {
-        padding-left: 70px;
-    }
     #significance {
         margin: 40px 70px 0 70px;
     }
+
+    #overheadpicture {
+        padding-left: 70px;
+    }
+
+    #overheadpic {
+        width: 450px;
+        height: 400px;
+    }
+
     #importance {
         display: flex;
         margin-bottom: 40px;
     }
 
-    #history {
-        display: flex;
-    }
 
     #sunsetpicture {
-        height: 450px;
-        width: 450px;
+        padding-right: 70px;
+        padding-left: 20px;
         order: -1;
-        flex-shrink: 0;
-        margin-right: 80px;
-        margin-bottom: 30px;
     }
 
+    #sunsetpic {
+        width: 400px;
+        height: 400px;
+    }
+
+    #history {
+        display: flex;
+        margin-bottom: 40px;
+    }
+
+
     #title {
-        margin-left: 780px;
+        margin-left: 490px;
         padding-top: 10px;
     }
 
-    #history {
-        display: block;
-        display: flex;
-        margin: 0 250px 0 250px;
-    }
 
     #background {
         margin-bottom: 40px;
         background-color: beige;
     }
 
-    #northpic {
-        height: 450px;
-        width: 450px;
-        margin-left: 80px;
-        margin-top: -30px;
+    #northpicture {
+        padding-left: 70px;
     }
 
     #archaeology {
-        display: block;
         display: flex;
-        margin: 0 250px 0 250px;
+        margin-bottom: 40px;
     }
+
+    #northpic {
+        width: 450px;
+        height: 400px;
+    }
+
+
+
+
 
     /* Event page */
     #solstice {
@@ -474,9 +458,11 @@ footer {
     #three {
         width: 33%;
     }
+
     h1 {
         font-size: 200%;
     }
+
     h3 {
         font-size: 140%;
     }
@@ -510,3 +496,6 @@ footer {
         top: 250px;
     }
 }
+
+/* Media query: laptops and desktops (1440px and up) */
+@media screen and (min-width: 1440px)
