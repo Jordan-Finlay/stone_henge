@@ -277,6 +277,10 @@ footer {
 .signupheader {
     color: #fafafa;
 }
+.hidden {
+    position: absolute;
+    visibility: hidden;
+}
 
 
 
