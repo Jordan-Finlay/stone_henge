@@ -498,4 +498,10 @@ footer {
 }
 
 /* Media query: laptops and desktops (1440px and up) */
-@media screen and (min-width: 1440px)
+@media screen and (min-width: 1440px){
+
+#significance {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+}
