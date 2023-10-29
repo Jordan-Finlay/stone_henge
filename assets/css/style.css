@@ -264,14 +264,18 @@ footer {
 
 #signupform {
     color: #fafafa;
-    background-color: rgba(139, 230, 230, .4);
+    background-color: rgba(139, 230, 230, .7);
     padding: 30px;
+    max-width: 240px;
 }
 
 #radio-buttons {
     width: 100%;
     display: flex;
     justify-content: space-between;
+}
+.signupheader {
+    color: #fafafa;
 }
 
 
@@ -357,7 +361,6 @@ footer {
     }
 
     #signupform {
-        max-width: 250px;
         position: absolute;
         left: 10%;
         top: 250px;
@@ -437,11 +440,7 @@ footer {
         width: 450px;
         height: 400px;
     }
-
-
-
-
-
+    
     /* Event page */
     #solstice {
         display: flex;
@@ -485,16 +484,9 @@ footer {
     }
 
     #signup {
-        width: 100%;
         background-position: 0 2px;
     }
 
-    #signupform {
-        max-width: 250px;
-        position: absolute;
-        left: 10%;
-        top: 250px;
-    }
 }
 
 /* Media query: laptops and desktops (1440px and up) */
