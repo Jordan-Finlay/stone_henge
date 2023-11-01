@@ -233,7 +233,6 @@ p {
 }
 
 /* Footer */
-
 footer {
     background-color: #fafafa;
     padding: 20px;
@@ -275,9 +274,6 @@ footer {
     z-index: -999;
 }
 
-
-
-
 /* Media query: large phones or landscape (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
@@ -285,9 +281,6 @@ footer {
         column-gap: 0;
     }
 }
-
-
-
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -364,12 +357,13 @@ footer {
     }
 }
 
-
-
-
 /* Media query: laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
+        border-bottom: 1px solid #252525;
+    }
+
+    #footerhover a:hover {
         border-bottom: 1px solid #252525;
     }
 
@@ -487,8 +481,6 @@ footer {
         column-count: 4;
         column-gap: 0;
     }
-
-
 
     #signup {
         background-position: 0 2px;
