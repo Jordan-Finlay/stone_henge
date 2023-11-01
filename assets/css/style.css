@@ -45,6 +45,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 130%;
+}
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -142,13 +146,6 @@ main {
     margin-top: 47px;
 }
 
-#significance h2 {
-    font-size: 200%;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
 #significance {
     margin: 0 30px 0 30px;
 }
@@ -156,7 +153,6 @@ main {
 #significance p {
     margin: 5px 10px 20px 10px;
 }
-
 
 /* overhead pic */
 .overhead {
