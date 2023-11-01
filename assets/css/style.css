@@ -231,7 +231,7 @@ p {
 #gallery img {
     width: 100%;
     line-height: 1em;
-    height: 200px;
+    height: auto;
 }
 
 #photos {
@@ -496,9 +496,7 @@ footer {
         column-gap: 0;
     }
 
-    #gallery img {
-        height: 400px;
-    }
+    
 
     #signup {
         background-position: 0 2px;
