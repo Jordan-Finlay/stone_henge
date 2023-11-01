@@ -278,7 +278,7 @@ footer {
 
 .hidden {
     position: absolute;
-    visibility: hidden;
+    z-index: -999;
 }
 
 
