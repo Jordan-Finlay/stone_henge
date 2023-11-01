@@ -367,6 +367,10 @@ footer {
         border-bottom: 1px solid #252525;
     }
 
+    #signuphover button:hover {
+        background-color: rgba(139, 230, 230, .6)
+    }
+
     #menu>li {
         padding-left: 2rem;
     }
