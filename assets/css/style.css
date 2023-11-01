@@ -93,7 +93,7 @@ nav {
     font-size: 80%;
 }
 
-#logo {
+.logo {
     font-family: lato;
     font-size: 180%;
     font-weight: bold;
@@ -107,7 +107,7 @@ nav {
 }
 
 #cover-text {
-    background-color: rgba(139, 230, 230, .4);
+    background-color: rgba(139, 230, 230, .6);
     color: #fafafa;
     position: absolute;
     bottom: 30px;
@@ -130,11 +130,11 @@ nav {
 }
 
 #event-text {
-    background-color: rgba(139, 230, 230, .4);
+    background-color: rgba(139, 230, 230, .6);
     color: #fafafa;
     position: absolute;
     bottom: 30px;
-    padding: 15px;
+    padding: 10px;
     margin-left: 5px;
 }
 
@@ -180,14 +180,6 @@ main {
 }
 
 /* Event page */
-#solstice h2 {
-    font-size: 200%;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-
 #solstice,
 p {
     margin: 5px 10px 20px 10px;
@@ -323,7 +315,7 @@ footer {
         display: none;
     }
 
-    #logo {
+    .logo {
         font-size: 280%;
         line-height: 80px;
         margin: 0 0.5rem;
