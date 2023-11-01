@@ -364,7 +364,7 @@ footer {
     }
 
     #footerhover a:hover {
-        border-bottom: 1px solid #252525;
+        background-color: rgba(139, 230, 230, .6)
     }
 
     #signuphover button:hover {
