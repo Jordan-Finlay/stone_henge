@@ -489,6 +489,10 @@ footer {
     #signup {
         background-position: 0 2px;
     }
+    .hiddenimg {
+        position: absolute;
+        display: none;
+    }
 
 }
 
