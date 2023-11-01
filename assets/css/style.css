@@ -392,8 +392,8 @@ footer {
     }
 
     #overheadpic {
-        width: 450px;
-        height: 400px;
+        width: 400px;
+        height: auto;
     }
 
     #importance {
@@ -408,8 +408,8 @@ footer {
     }
 
     #sunsetpic {
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
     }
 
     #history {
@@ -417,12 +417,10 @@ footer {
         margin-bottom: 40px;
     }
 
-
     #title {
-        margin-left: 490px;
+        margin-left: 390px;
         padding-top: 10px;
     }
-
 
     #background {
         margin-bottom: 40px;
@@ -439,8 +437,8 @@ footer {
     }
 
     #northpic {
-        width: 450px;
-        height: 400px;
+        width: 400px;
+        height: 300px;
     }
 
     /* Event page */
@@ -496,7 +494,7 @@ footer {
         column-gap: 0;
     }
 
-    
+
 
     #signup {
         background-position: 0 2px;
@@ -525,5 +523,25 @@ footer {
     #upclosepic {
         max-width: 90%;
         max-height: 400px;
+    }
+
+    #overheadpic {
+        width: 100%;
+        height: auto;
+    }
+
+    #sunsetpic {
+        width: 450px;
+        height: auto;
+    }
+
+    #title {
+        margin-left: 540px;
+        padding-top: 10px;
+    }
+
+    #northpic {
+        width: 600px;
+        height: auto;
     }
 }
