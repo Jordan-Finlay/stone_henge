@@ -92,6 +92,7 @@ nav {
 #logo {
     font-family: lato;
     font-size: 180%;
+    font-weight: bold;
 }
 
 #hero {
@@ -106,8 +107,13 @@ nav {
     color: #fafafa;
     position: absolute;
     bottom: 30px;
-    padding: 15px;
+    padding: 10px;
     margin-left: 5px;
+}
+
+.herotext {
+    font-size: 150%;
+    font-weight: 600;
 }
 
 /* Event hero image */
