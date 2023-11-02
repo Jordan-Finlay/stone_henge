@@ -14,7 +14,7 @@ There's a gallery page for images aswell as a signup page for viewers to recieve
 
 ### Existing Features
 
-__Navigation Bar__
+#### __Navigation Bar__
 
 - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Event page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
@@ -54,8 +54,8 @@ The events page is similar to the main page as it's layout is also in three sect
 
 - __Gallery__
 
-  - The gallery 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+- The gallery 
+
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
