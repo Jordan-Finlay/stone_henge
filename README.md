@@ -1,10 +1,8 @@
 # Stonehenge
+This is an informative website I've created based on Stonehenge. 
+I created it to help inform viewers about general knowledge of Stonehenge and the events they u
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club.
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+<img src="allscreens.jpg">
 
 ## Features
 
@@ -17,8 +15,7 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Event page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-<img src="assets/readme/nav_bar.jpg">
-
+<img src="assets/readme/nav_bar.jpg" self-align: center;>
 
 - __The landing page image__
 
