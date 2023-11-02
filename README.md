@@ -29,22 +29,30 @@ __Navigation Bar__
 <img src="assets/readme/hero_image.jpg">
 
 In the main page there's three main sections such as 'Importance, History and Archaeology.
-Importance is general information about why Stonehenge is so important and why it is a key feature to British culture.
-History is about when Stonehenge was built and how long it took to build.
-Archaeology is about how Stonehenge was created and how even to this day it is still worked on and studied.
 
-- __The Footer__
+- Importance is general information about why Stonehenge is so important and why it is a key feature to British culture.
+- History is about when Stonehenge was built and how long it took to build.
+- Archaeology is about how Stonehenge was created and how even to this day it is still worked on and studied.
 
-- The footer section includes links to the relevant social media sites for Stonehenge on Facebook and Instagram. 
+__The Footer__
+
+The footer section includes links to the relevant social media sites for Stonehenge on Facebook and Instagram. 
 - The links will open to a new tab to allow easy navigation for the user.
 - I also added a hover function that turns a light green (the same green used on my hero text box)
 - The footer is valuable to the user as it encourages them to keep connected via social media
 
-<img src="assets/readme/footer_links.jpg>
+<img src="assets/readme/footer_links.jpg">
+
+__Events page__
+
+The events page is similar to the main page as it's layout is also in three sections but flexed in rows.
+- The Mystery Of The Stones is a Sherlock themed event is a fun pop-up play, that takes place at Stonehenge Centre.
+- FESTIVAL OF NEOLITHIC IDEAS hands-on activities, demonstrations, talks and tours, led by experts in the field.
+- STONEHENGE: UP CLOSE
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like.
+  - The gallery 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
