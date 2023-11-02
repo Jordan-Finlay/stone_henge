@@ -19,27 +19,27 @@ __Navigation Bar__
 - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Event page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-<img src="assets/readme/nav_bar.jpg" self-align: center;>
+<img src="assets/readme/nav_bar.jpg">
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see a picture of Stonehenge and location.
-  - This section introduces the user to an informative site about the great conspiracy filled Stonehenge.
+- The landing includes a photograph with text overlay to allow the user to see a picture of Stonehenge and location.
+- This section introduces the user to an informative site about the great conspiracy filled Stonehenge.
 
 <img src="assets/readme/hero_image.jpg">
 
 
 - __Club Ethos Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
+- The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
+- This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __Meetup Times section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-  - This section will be updated as these times change to keep the user up to date.
+- This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
+- This section will be updated as these times change to keep the user up to date.
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
