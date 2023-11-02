@@ -1,6 +1,7 @@
 # Stonehenge
 This is an informative website I've created based on Stonehenge. 
 I created it to help inform viewers about general knowledge of Stonehenge and the events they hold throughout the year.
+There's a gallery page for images aswell as a signup page for viewers to recieve any news updates.
 
 <img src="assets/readme/allscreens.jpg">
 
@@ -13,10 +14,10 @@ I created it to help inform viewers about general knowledge of Stonehenge and th
 
 ### Existing Features
 
-- __Navigation Bar__
+__Navigation Bar__
 
-  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Event page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+- Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Event page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 <img src="assets/readme/nav_bar.jpg" self-align: center;>
 
