@@ -2,7 +2,7 @@
 This is an informative website I've created based on Stonehenge. 
 I created it to help inform viewers about general knowledge of Stonehenge and the events they hold throughout the year.
 
-<img src="allscreens.jpg">
+<img src="assets/readme/allscreens.jpg">
 
 ## Features
 
