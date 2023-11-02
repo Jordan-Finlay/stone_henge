@@ -1,12 +1,15 @@
 # Stonehenge
 This is an informative website I've created based on Stonehenge. 
-I created it to help inform viewers about general knowledge of Stonehenge and the events they u
+I created it to help inform viewers about general knowledge of Stonehenge and the events they hold throughout the year.
 
 <img src="allscreens.jpg">
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+ - The main page is based on general information about Stonehenge and it's history.
+ - The events page is information about current events and upcoming future events.
+ - The hallery page is for general pictures of Stonehenge.
+ - Lastly the sign-up page is a newsfeed letter for consumers to input details and get any news and updates.
 
 ### Existing Features
 
