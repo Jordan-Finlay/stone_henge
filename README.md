@@ -28,27 +28,19 @@ __Navigation Bar__
 
 <img src="assets/readme/hero_image.jpg">
 
-
-- __Club Ethos Section__
-
-- The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-- This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-- This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-- This section will be updated as these times change to keep the user up to date.
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+In the main page there's three main sections such as 'Importance, History and Archaeology.
+Importance is general information about why Stonehenge is so important and why it is a key feature to British culture.
+History is about when Stonehenge was built and how long it took to build.
+Archaeology is about how Stonehenge was created and how even to this day it is still worked on and studied.
 
 - __The Footer__
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+- The footer section includes links to the relevant social media sites for Stonehenge on Facebook and Instagram. 
+- The links will open to a new tab to allow easy navigation for the user.
+- I also added a hover function that turns a light green (the same green used on my hero text box)
+- The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+<img src="assets/readme/footer_links.jpg>
 
 - __Gallery__
 
