@@ -43,12 +43,13 @@ The footer section includes links to the relevant social media sites for Stonehe
 
 <img src="assets/readme/footer_links.jpg">
 
-__Events page__
+# Events page
 
 The events page is similar to the main page as it's layout is also in three sections but flexed in rows.
 - THE MYSTERY OF THE STONES - is a Sherlock themed event is a fun pop-up play, that takes place at Stonehenge Centre.
 - FESTIVAL OF NEOLITHIC IDEAS - is a hands-on activity with demonstrations, talks and tours, led by experts in the field.
 - STONEHENGE: UP CLOSE - is an exclusive tour around the Monument led by one of English Heritage’s experts.
+
 
 <img src="assets/readme/events_page.jpg">
 
