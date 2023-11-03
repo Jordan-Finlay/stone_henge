@@ -6,13 +6,13 @@ There's a gallery page for images aswell as a signup page for viewers to recieve
 <img src="assets/readme/allscreens.jpg">
 
 ## Features
+Existing Features
 
  - The main page is based on general information about Stonehenge and it's history.
  - The events page is information about current events and upcoming future events.
  - The hallery page is for general pictures of Stonehenge.
  - Lastly the sign-up page is a newsfeed letter for consumers to input details and get any news and updates.
 
-#Existing Features
 
 #__Navigation Bar__
 
@@ -90,13 +90,15 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+The only potential "bug" I currently have is a "warning" for incorrect use of headers in correct correlation. I've changed them multiple times and can't fix the issue. Although it's only a warning I'd still like to fix it correctly.
+
+<img src="assets/readmep.jpg">
 
 ## Deployment
 
