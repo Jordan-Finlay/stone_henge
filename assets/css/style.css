@@ -363,7 +363,11 @@ footer {
         border-bottom: 1px solid #252525;
     }
 
-    #footerhover a:hover {
+    #footerhoverfb a:hover {
+        background-color: rgba(139, 230, 230, .6)
+    }
+
+    #footerhoverig a:hover {
         background-color: rgba(139, 230, 230, .6)
     }
 
@@ -489,6 +493,7 @@ footer {
     #signup {
         background-position: 0 2px;
     }
+
     .hiddenimg {
         position: absolute;
         display: none;

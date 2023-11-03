@@ -12,16 +12,16 @@ There's a gallery page for images aswell as a signup page for viewers to recieve
  - The hallery page is for general pictures of Stonehenge.
  - Lastly the sign-up page is a newsfeed letter for consumers to input details and get any news and updates.
 
-### Existing Features
+#Existing Features
 
-#### __Navigation Bar__
+#__Navigation Bar__
 
 - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Event page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 <img src="assets/readme/nav_bar.jpg">
 
-- __The landing page image__
+#__The landing page image__
 
 - The landing includes a photograph with text overlay to allow the user to see a picture of Stonehenge and location.
 - This section introduces the user to an informative site about the great conspiracy filled Stonehenge.
@@ -34,7 +34,7 @@ In the main page there's three main sections such as 'Importance, History and Ar
 - History is about when Stonehenge was built and how long it took to build.
 - Archaeology is about how Stonehenge was created and how even to this day it is still worked on and studied.
 
-__The Footer__
+#__The Footer__
 
 The footer section includes links to the relevant social media sites for Stonehenge on Facebook and Instagram. 
 - The links will open to a new tab to allow easy navigation for the user.
@@ -43,45 +43,48 @@ The footer section includes links to the relevant social media sites for Stonehe
 
 <img src="assets/readme/footer_links.jpg">
 
-# Events page
+#__Events page__
 
 The events page is similar to the main page as it's layout is also in three sections but flexed in rows.
 - THE MYSTERY OF THE STONES - is a Sherlock themed event is a fun pop-up play, that takes place at Stonehenge Centre.
 - FESTIVAL OF NEOLITHIC IDEAS - is a hands-on activity with demonstrations, talks and tours, led by experts in the field.
 - STONEHENGE: UP CLOSE - is an exclusive tour around the Monument led by one of English Heritage’s experts.
 
-
 <img src="assets/readme/events_page.jpg">
 
-- __Gallery__
+#__Gallery__
 
-- The gallery 
+- The gallery section is a collection of my favourite Stonehenge pictures I found in all it's glory.
+- I made it to be responsive depending on screen size, from 1 picture up to four.
 
+<img src="assets/readme/gallery_section.jpg">
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+#__The Sign Up Page__
 
-- __The Sign Up Page__
+- The signup page is for any consumers to input there phone or email address so they can recieve any news updates
+- Like the other pages it has been created for adaptability depending on device also.
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
+<img src="assets/readme/signup_page.jpg">
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+#__Features Left to Implement__
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+I have plenty of ideas I would love to create into the website such as;
+- A conspiracy page.
+- More detail into the history and general information about Stonehenge.
+- More social links and social media.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+#__Testing__
 
-### Features Left to Implement
+I've tested my Stonehenge website on multiple browers such as Firefox/Chrome and Microsoft edge. Aswell as my android phone "Samsung internet".
+To my current knowledge there are no bugs on any device or internet browser - although I'm still yet to test fully on an ipad/tablet.
+The full website is adaptable to all devices and screen sizes.
+I believe any of my website consumers will be happy and have a great experience and achieve their goals easily.
+I did have a bug with my footer's links not opening correctly on a new page but since has been fixed.
 
-- Another feature idea
-
-## Testing
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Validator Testing
