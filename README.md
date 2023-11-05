@@ -1,9 +1,13 @@
-# Stonehenge
+<div align="center"># Stonehenge</div>
+<div align="center"><img src="assets/readme/allscreens.jpg" alt="All screen sizes for Stonehenge website"></div>
+
+## Contents
+<div><a href="#ux>UX</div>
+
+# UX 
 This is an informative website I've created based on Stonehenge. 
 I created it to help inform viewers about general knowledge of Stonehenge and the events they hold throughout the year.
 There's a gallery page for images aswell as a signup page for viewers to recieve any news updates.
-
-<img src="assets/readme/allscreens.jpg">
 
 # Features
 __Existing Features__
@@ -90,13 +94,17 @@ I did have a bug with my footer's links not opening correctly on a new page but 
 # Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official W3C validator - <"https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html">
+- No errors were returned when passing through the official W3C validator - <"https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2F">
 - CSS
   - No errors were found when passing through the official (Jigsaw) validator - <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
+
+I am currently using "Prettier" so the W3C validator complains with trailing slashes that have "no effect".
+I can remove the slashes myself but whenever I save or format my code prettier will add them back in.
 
 # Unfixed Bugs
 
 The only potential "bug" I currently have is a "warning" for incorrect use of headers in correct correlation. I've changed them multiple times and can't fix the issue. Although it's only a warning I'd still like to fix it correctly.
+
 
 <img src="assets/readme/potential_bug.jpg">
 
