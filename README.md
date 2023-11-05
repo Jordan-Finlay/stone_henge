@@ -1,9 +1,9 @@
-<div align="center">Stonehenge</div>
+<div align="center" font-size=200%>Stonehenge</div>
 
 <div align="center"><img src="assets/readme/allscreens.jpg" alt="All screen sizes for Stonehenge website"></div>
 
 ## Contents
-<details>
+<details open>
 <summary><a href="#ux>UX</summary>
 </details>
 
