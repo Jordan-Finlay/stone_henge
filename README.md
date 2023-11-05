@@ -34,6 +34,8 @@ In the main page there's three main sections such as 'Importance, History and Ar
 - History is about when Stonehenge was built and how long it took to build.
 - Archaeology is about how Stonehenge was created and how even to this day it is still worked on and studied.
 
+<img src="assets/readme/main_page.jpg">
+
 #__The Footer__
 
 The footer section includes links to the relevant social media sites for Stonehenge on Facebook and Instagram. 
@@ -98,7 +100,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 The only potential "bug" I currently have is a "warning" for incorrect use of headers in correct correlation. I've changed them multiple times and can't fix the issue. Although it's only a warning I'd still like to fix it correctly.
 
-<img src="assets/readmep.jpg">
+<img src="assets/readme/potential_bug.jpg">
 
 ## Deployment
 
