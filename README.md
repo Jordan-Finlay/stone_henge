@@ -5,7 +5,7 @@ There's a gallery page for images aswell as a signup page for viewers to recieve
 
 <img src="assets/readme/allscreens.jpg">
 
-## Features
+# Features
 Existing Features
 
  - The main page is based on general information about Stonehenge and it's history.
@@ -74,25 +74,22 @@ I have plenty of ideas I would love to create into the website such as;
 - A conspiracy page.
 - More detail into the history and general information about Stonehenge.
 - More social links and social media.
+- A video or two on Stonehenge.
+- Add an age clock near hero image on main page.
 
 #__Testing__
 
 I've tested my Stonehenge website on multiple browers such as Firefox/Chrome and Microsoft edge. Aswell as my android phone "Samsung internet".
 To my current knowledge there are no bugs on any device or internet browser - although I'm still yet to test fully on an ipad/tablet.
-The full website is adaptable to all devices and screen sizes.
+The website is fully adaptable to all devices and screen sizes.
 I believe any of my website consumers will be happy and have a great experience and achieve their goals easily.
+All the links and signup page work correctly and as intended.
 I did have a bug with my footer's links not opening correctly on a new page but since has been fixed.
-
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator]("https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html" target_blank)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
@@ -104,25 +101,21 @@ The only potential "bug" I currently have is a "warning" for incorrect use of he
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - <https://code-institute-org.github.io/love-running-2.0/index.html>
+The live link can be found here - <https://jordan-finlay.github.io/stone_henge/>
 
 ## Credits
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
+I used a few different websites for information aswell as images of Stonehenge.
 
 ### Content
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- Some of the text for the Home page was taken from Wikipedia.
+- Some of the text was taken from an English heritage site - <https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/research/>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
