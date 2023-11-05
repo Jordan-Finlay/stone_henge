@@ -13,8 +13,7 @@ Existing Features
  - The hallery page is for general pictures of Stonehenge.
  - Lastly the sign-up page is a newsfeed letter for consumers to input details and get any news and updates.
 
-
-#__Navigation Bar__
+__Navigation Bar__
 
 - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Event page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
@@ -89,9 +88,9 @@ I did have a bug with my footer's links not opening correctly on a new page but 
 # Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]("https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html")
+  - No errors were returned when passing through the official W3C validator - <"https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html">
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were found when passing through the official (Jigsaw) validator - <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 
 # Unfixed Bugs
 
