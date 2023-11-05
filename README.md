@@ -3,7 +3,7 @@
 <div align="center"><img src="assets/readme/allscreens.jpg" alt="All screen sizes for Stonehenge website"></div>
 
 ## Table of contents
-[UX](a href="ux")
+[UX](a href="#ux")
 
 
 # UX
