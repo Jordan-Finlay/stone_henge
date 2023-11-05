@@ -2,6 +2,10 @@
 
 <div align="center"><img src="assets/readme/allscreens.jpg" alt="All screen sizes for Stonehenge website"></div>
 
+## Table of contents
+[UX](a href="ux")
+
+
 # UX
 
 This is an informative website I've created based on Stonehenge.
@@ -10,14 +14,14 @@ There's a gallery page for images aswell as a signup page for viewers to recieve
 
 ## Features
 
-**Existing Features**
+__Existing Features__
 
 - The main page is based on general information about Stonehenge and it's history.
 - The events page is information about current events and upcoming future events.
 - The hallery page is for general pictures of Stonehenge.
 - Lastly the sign-up page is a newsfeed letter for consumers to input details and get any news and updates.
 
-**Navigation Bar**
+__Navigation Bar__
 
 - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Event page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
@@ -124,13 +128,13 @@ The live link can be found here - <https://jordan-finlay.github.io/stone_henge/>
 
 I used a few different websites for information aswell as images of Stonehenge.
 
-**Content**
+__Content__
 
 - Some of the text for the Home page was taken from Wikipedia.
 - Some of the text was taken from an English heritage site - <https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/research/>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - I got my fonts from google fonts <https://fonts.google.com/>
 
-**Media**
+__Media__
 
 - The photos and images used on the home page, event page, gallery and sign up page are from This Open Source site - <https://unsplash.com/s/photos/stonehenge-tent>
