@@ -86,20 +86,20 @@ I believe any of my website consumers will be happy and have a great experience 
 All the links and signup page work correctly and as intended.
 I did have a bug with my footer's links not opening correctly on a new page but since has been fixed.
 
-### Validator Testing
+# Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]("https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html" target_blank)
+  - No errors were returned when passing through the official [W3C validator]("https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html")
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-### Unfixed Bugs
+# Unfixed Bugs
 
 The only potential "bug" I currently have is a "warning" for incorrect use of headers in correct correlation. I've changed them multiple times and can't fix the issue. Although it's only a warning I'd still like to fix it correctly.
 
 <img src="assets/readme/potential_bug.jpg">
 
-## Deployment
+# Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
@@ -108,36 +108,17 @@ The only potential "bug" I currently have is a "warning" for incorrect use of he
 
 The live link can be found here - <https://jordan-finlay.github.io/stone_henge/>
 
-## Credits
+# Credits
 
 I used a few different websites for information aswell as images of Stonehenge.
 
-### Content
+# Content
 
 - Some of the text for the Home page was taken from Wikipedia.
 - Some of the text was taken from an English heritage site - <https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/research/>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
-### Media
+# Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos and images used on the home page, event page, gallery and sign up page are from This Open Source site - <https://unsplash.com/s/photos/stonehenge-tent>
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message
-  - Make sure to keep the messages in the imperative mood
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
