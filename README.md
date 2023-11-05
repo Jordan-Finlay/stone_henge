@@ -1,8 +1,11 @@
-<div align="center"># Stonehenge</div>
+<div align="center">Stonehenge</div>
+
 <div align="center"><img src="assets/readme/allscreens.jpg" alt="All screen sizes for Stonehenge website"></div>
 
 ## Contents
-<div><a href="#ux>UX</div>
+<details>
+<summary><a href="#ux>UX</summary>
+</details>
 
 # UX 
 This is an informative website I've created based on Stonehenge. 
