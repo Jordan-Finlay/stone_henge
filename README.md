@@ -138,23 +138,43 @@ I believe any of my website consumers will be happy and have a great experience 
 All the links and signup page work correctly and as intended.
 I did have a bug with my footer's links not opening correctly on a new page but this has since been fixed.
 
-- Firefox                               - Firefox (mobile)
-  - Mainpage - Works as intended          - Mainpage - Works as intended
-  - Eventspage - Works as intended        - Eventspage - Works as intended
-  - gallerypage - Works as intended       - gallerypage - Works as intended
-  - signup page - Works as intended       - signup page - Works as intended
+- Firefox
+  - Mainpage - Works as intended
+  - Eventspage - Works as intended
+  - gallerypage - Works as intended
+  - signup page - Works as intended
 
-- Chrome                                - Chrome (mobile)
-  - Mainpage - Works as intended          - Mainpage - Works as intended
-  - Eventspage - Works as intended        - Eventspage - Works as intended
-  - gallerypage - Works as intended       - gallerypage - Works as intended
-  - signup page - Works as intended       - signup page - Works as intended
+- Chrome
+  - Mainpage - Works as intended
+  - Eventspage - Works as intended
+  - gallerypage - Works as intended
+  - signup page - Works as intended
 
-- Microsoft edge                        - Microsoft edge (mobile)
-  - Mainpage - Works as intended          - Mainpage - Works as intended
-  - Eventspage - Works as intended        - Eventspage - Works as intended
-  - gallerypage - Works as intended       - gallerypage - Works as intended
-  - signup page - Works as intended       - signup page - Works as intended
+- Microsoft edge
+  - Mainpage - Works as intended
+  - Eventspage - Works as intended
+  - gallerypage - Works as intended
+  - signup page - Works as intended
+
+### Mobile testing
+
+- Firefox (mobile)
+  - Mainpage - Works as intended
+  - Eventspage - Works as intended
+  - gallerypage - Works as intended
+  - signup page - Works as intended
+
+- Chrome (mobile)
+  - Mainpage - Works as intended
+  - Eventspage - Works as intended
+  - gallerypage - Works as intended
+  - signup page - Works as intended
+
+- Microsoft edge (mobile)
+  - Mainpage - Works as intended
+  - Eventspage - Works as intended
+  - gallerypage - Works as intended
+  - signup page - Works as intended
 
 
 ## Validator Testing
