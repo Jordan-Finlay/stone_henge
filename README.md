@@ -140,7 +140,7 @@ I did have a bug with my footer's links not opening correctly on a new page but 
 
 ## Validator Testing
 - HTML
-No errors were returned when passing through the official W3C validator - <"https://validator.w3.org/nu/?doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2F">
+No errors were returned when passing through the official W3C validator - <https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html>
 
 - CSS
 No errors were found when passing through the official (Jigsaw) validator - <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
