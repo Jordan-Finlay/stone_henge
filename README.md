@@ -2,7 +2,8 @@
 
 <div align="center"><img src="assets/readme/allscreens.jpg" alt="All screen sizes for Stonehenge website"></div>
 
-#UX
+
+# UX
 
 This is an informative website I've created based on Stonehenge.
 I created it to help inform viewers about general knowledge of Stonehenge and the events they hold throughout the year.
@@ -33,7 +34,7 @@ __Navigation Bar__
 
 <div align="center"><img src="assets/readme/nav_bar.jpg"></div>
 
-For all four HTML pages I've adapted the pages for smaller screen sizes (mobile/tablets) to keep a nice layout and a great user experience. From changing the header sizes and paragraph sizes, along with image sizes and a checkbox drop down for mobiles to keep the website tidy.
+- For all four HTML pages I've adapted the pages for smaller screen sizes (mobile/tablets) to keep a nice layout and a great user experience. From changing the header sizes and paragraph sizes, along with image sizes and a checkbox drop down for mobiles to keep the website tidy.
 
 <div align="center"><img src="assets/readme/mobilenavbar.jpg"></div>
 
@@ -56,8 +57,10 @@ In the main page there's three main section: 'Importance, History and Archaeolog
 
 <div align="center"><img src="assets/readme/main_page.jpg"></div>
 
-I've intentionally kept the navbar fixed to the top of the screen on mobile as the readers scroll. Keeping a great user experience and allowing users to swap pages easily with the drop down check box.
+- For mobile I've intentionally stapled the navbar to the top of the page as users scroll. Keeping a great user experience and allowing users to swap pages easily with the drop down check box.
+
 The mobile view for the main page;
+
 <div align="center"><img src="assets/readme/mobilemainpage.jpg"></div>
 
 ## The Footer
@@ -84,7 +87,8 @@ The events page is similar to the main page as it's layout is also in three sect
 
 <div align="center"><img src="assets/readme/events_page.jpg"></div>
 
-For the events page I've kept it similar to the main page for user experience. The hero image and its tags, the header, the paragraphs and the pictures are all reduced to size to accommodate for the smaller screen size.
+- For the events page I've kept it similar to the main page for user experience. The hero image and its tags, the header, the paragraphs and the pictures are all reduced to size to accommodate for the smaller screen size.
+The mobile view;
 
 <div align="center"><img src="assets/readme/mobileeventspage.jpg"></div>
 
@@ -96,7 +100,8 @@ For the events page I've kept it similar to the main page for user experience. T
 
 <div align="center"><img src="assets/readme/gallery_section.jpg"></div>
 
-For mobile on the gallery page I've reduced the size and gap of images to accommodate for the smaller screen size.
+- For mobile on the gallery page I've reduced the size and gap of images to accommodate for the smaller screen size.
+The mobile view;
 
 <div align="center"><img src="assets/readme/mobilegallery.jpg"></div>
 
@@ -106,7 +111,8 @@ For mobile on the gallery page I've reduced the size and gap of images to accomm
 
 <div align="center"><img src="assets/readme/signup_page.jpg"></div>
 
-Again for mobile I've changed the signup page accordingly. I've moved the background image of stonehenge so it's more in focus for mobile readers. Still with the same functions for a signup page to allow the user to recieve news on Stonehenge and any new events.
+- Again for mobile I've changed the signup page accordingly. I've moved the background image of stonehenge so it's more in focus for mobile readers. Still with the same functions for a signup page to allow the user to recieve news on Stonehenge and any new events.
+The mobile view;
 
 <div align="center"><img src="assets/readme/mobilesignup.jpg"></div>
 
