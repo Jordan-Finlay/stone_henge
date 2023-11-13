@@ -234,3 +234,4 @@ __Content__
 __Media__
 
 - The photos and images used on the home page, event page, gallery and sign up page are from this Open Source site - <https://unsplash.com/s/photos/stonehenge-tent>
+- Wireframes from - <https://www.figma.com/?fuid=>
