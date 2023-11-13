@@ -159,6 +159,8 @@ The only potential "bug" I currently have is a "warning" for incorrect use of he
 
 <div align="center"><img src="assets/readme/potential_bug.jpg"></div>
 
+note - I hve found the route of the bug and has recently been fixed.
+
 # Wireframes
 
 I used a website called 'figma' for wireframes - <https://www.figma.com/?fuid=>
@@ -172,6 +174,12 @@ I've uploaded my recent ones to googledrive - <https://drive.google.com/drive/fo
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - <https://jordan-finlay.github.io/stone_henge/>
+
+## Local deployment
+
+- I've downloaded a copy of my Stonehenge website onto my computer and am able to access it through local deployment to change and mess around with the layout and structure for better user experience.
+
+<div align="center"><img src="assets/readme/localdeployment.jpg"></div>
 
 # Credits
 
