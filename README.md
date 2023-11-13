@@ -2,10 +2,6 @@
 
 <div align="center"><img src="assets/readme/allscreens.jpg" alt="All screen sizes for Stonehenge website"></div>
 
-## Table of contents
-[UX](a href="#UX")
-
-
 #UX
 
 This is an informative website I've created based on Stonehenge.
@@ -120,6 +116,9 @@ No errors were returned when passing through the official W3C validator - <"http
 - CSS
 No errors were found when passing through the official (Jigsaw) validator - <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjordan-finlay.github.io%2Fstone_henge%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 
+- Lighthouse
+No errors were found when using ligthouse - <https://pagespeed.web.dev/analysis/https-jordan-finlay-github-io-stone_henge-index-html/k65h1gpp7a?form_factor=mobile>
+
 I am currently using "Prettier" so the W3C validator complains with trailing slashes that have "no effect".
 I can remove the slashes myself but whenever I save or format my code prettier will add them back in.
 
@@ -130,6 +129,12 @@ I can remove the slashes myself but whenever I save or format my code prettier w
 The only potential "bug" I currently have is a "warning" for incorrect use of headers in correct correlation. I've changed them multiple times and can't fix the issue. Although it's only a warning, I'd still like to fix it correctly.
 
 <div align="center"><img src="assets/readme/potential_bug.jpg"></div>
+
+# Wireframes
+
+I used a website called 'figma' for wireframes - <https://www.figma.com/?fuid=>
+I've uploaded my recent ones to googledrive - <https://drive.google.com/drive/folders/1RAfaiFtXUOpGi6OMStBZfExjZJnRkyx6>
+
 
 # Deployment
 
