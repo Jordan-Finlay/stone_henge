@@ -88,6 +88,7 @@ The events page is similar to the main page as it's layout is also in three sect
 <div align="center"><img src="assets/readme/events_page.jpg"></div>
 
 - For the events page I've kept it similar to the main page for user experience. The hero image and its tags, the header, the paragraphs and the pictures are all reduced to size to accommodate for the smaller screen size.
+
 The mobile view;
 
 <div align="center"><img src="assets/readme/mobileeventspage.jpg"></div>
@@ -101,6 +102,7 @@ The mobile view;
 <div align="center"><img src="assets/readme/gallery_section.jpg"></div>
 
 - For mobile on the gallery page I've reduced the size and gap of images to accommodate for the smaller screen size.
+
 The mobile view;
 
 <div align="center"><img src="assets/readme/mobilegallery.jpg"></div>
@@ -112,6 +114,7 @@ The mobile view;
 <div align="center"><img src="assets/readme/signup_page.jpg"></div>
 
 - Again for mobile I've changed the signup page accordingly. I've moved the background image of stonehenge so it's more in focus for mobile readers. Still with the same functions for a signup page to allow the user to recieve news on Stonehenge and any new events.
+
 The mobile view;
 
 <div align="center"><img src="assets/readme/mobilesignup.jpg"></div>
