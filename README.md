@@ -33,6 +33,10 @@ __Navigation Bar__
 
 <div align="center"><img src="assets/readme/nav_bar.jpg"></div>
 
+For all four HTML pages I've adapted the pages for smaller screen sizes (mobile/tablets) to keep a nice layout and a great user experience. From changing the header sizes and paragraph sizes, along with image sizes and a checkbox drop down for mobiles to keep the website tidy.
+
+<div align="center"><img src="assets/readme/mobilenavbar.jpg"></div>
+
 ## The landing page image
 
 - The landing includes a photograph with text overlay to allow the user to see a picture of Stonehenge and its location.
@@ -52,6 +56,10 @@ In the main page there's three main section: 'Importance, History and Archaeolog
 
 <div align="center"><img src="assets/readme/main_page.jpg"></div>
 
+I've intentionally kept the navbar fixed to the top of the screen on mobile as the readers scroll. Keeping a great user experience and allowing users to swap pages easily with the drop down check box.
+The mobile view for the main page;
+<div align="center"><img src="assets/readme/mobilemainpage.jpg"></div>
+
 ## The Footer
 
 The footer section includes links to the relevant social media sites for Stonehenge on Facebook and Instagram.
@@ -60,7 +68,8 @@ The footer section includes links to the relevant social media sites for Stonehe
 - I also added a hover function that turns a light green (the same green used on my hero text box) to keep the footer
   in theme with the rest of the site.
 - The footer is valuable to the user as it encourages them to keep connected via social media and also promotes 
-  visits to the correct social pages.
+visits to the correct social pages.
+- For mobile viewers the links are still in the footer - without a hover function. They are slightly smaller and look tidy on a smaller screen.
 
 <div align="center"><img src="assets/readme/footer_links.jpg"></div>
 
@@ -75,6 +84,10 @@ The events page is similar to the main page as it's layout is also in three sect
 
 <div align="center"><img src="assets/readme/events_page.jpg"></div>
 
+For the events page I've kept it similar to the main page for user experience. The hero image and its tags, the header, the paragraphs and the pictures are all reduced to size to accommodate for the smaller screen size.
+
+<div align="center"><img src="assets/readme/mobileeventspage.jpg"></div>
+
 # Gallery
 
 - The gallery section is a collection of my favourite Stonehenge pictures I found in all it's glory.
@@ -83,12 +96,19 @@ The events page is similar to the main page as it's layout is also in three sect
 
 <div align="center"><img src="assets/readme/gallery_section.jpg"></div>
 
+For mobile on the gallery page I've reduced the size and gap of images to accommodate for the smaller screen size.
+
+<div align="center"><img src="assets/readme/mobilegallery.jpg"></div>
+
 # The Sign Up Page
 
 - The signup page is for any consumers to input their phone or email address so they can recieve any news updates
-- Like the other pages it has been created for adaptability depending on the device or screen size.
 
 <div align="center"><img src="assets/readme/signup_page.jpg"></div>
+
+Again for mobile I've changed the signup page accordingly. I've moved the background image of stonehenge so it's more in focus for mobile readers. Still with the same functions for a signup page to allow the user to recieve news on Stonehenge and any new events.
+
+<div align="center"><img src="assets/readme/mobilesignup.jpg"></div>
 
 # Features Left to Implement
 
@@ -134,7 +154,6 @@ The only potential "bug" I currently have is a "warning" for incorrect use of he
 
 I used a website called 'figma' for wireframes - <https://www.figma.com/?fuid=>
 I've uploaded my recent ones to googledrive - <https://drive.google.com/drive/folders/1RAfaiFtXUOpGi6OMStBZfExjZJnRkyx6>
-
 
 # Deployment
 
