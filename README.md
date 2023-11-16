@@ -203,7 +203,7 @@ note - I hve found the route of the bug and has recently been fixed.
 # Wireframes
 
 I used a website called 'figma' for wireframes - <https://www.figma.com/?fuid=>
-I've uploaded my recent ones to googledrive - <https://drive.google.com/drive/folders/1RAfaiFtXUOpGi6OMStBZfExjZJnRkyx6>
+I've uploaded my recent ones to googledrive - <https://drive.google.com/drive/folders/1gN04gt446UQ2uFraVywGlGuqX08IBByX>
 
 # Deployment
 
